@@ -34,11 +34,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriValdi&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Mauricio](ca://s?q=Show_me_how_to_add_LinkedIn_to_GitHub_profile)  
-- Email: mauricio@example.com  
+- LinkedIn: [Mauricio]([ca://s?q=Show_me_how_to_add_LinkedIn_to_GitHub_profile](https://www.linkedin.com/in/mauricio-valdivieso-jordan-430774286/))  
+- Email: mauricioo.valdi@gmail.com  
 - Location: Cochabamba, Bolivia
