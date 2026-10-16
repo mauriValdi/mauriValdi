@@ -15,6 +15,8 @@
 ---
 
 ## 📌 Featured Projects
+- **I have dedicated my work to private companies over many years, hence no public repositories exist due to confidentiality agreements.**
+
 - **[Secure API with JWT](ca://s?q=Tell_me_more_about_Secure_API_with_JWT)**  
   ASP.NET Core API with authentication, role-based access, and SQL Server integration.  
 
