@@ -1,7 +1,7 @@
 # Hi, I'm Mauricio 👋
 
 💻 Mid-level **.NET Backend Developer** based in Cochabamba, Bolivia.  
-🎓 Egresado en Ingeniería de Sistemas – Universidad Católica Boliviana San Pablo.  
+🎓 Systems Engineering – Universidad Católica Boliviana San Pablo.  
 🚀 Actively seeking competitive backend developer roles (planilla or contractor).
 
 ---
@@ -30,11 +30,6 @@
 - Exploring **GoLang** for backend scalability.  
 - Experimenting with **Python** for automation and data pipelines.  
 - Interested in ERP systems like **Odoo** for business integration.  
-
----
-
-## 📊 GitHub Stats
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriValdi&show_icons=true&theme=radical)
 
 ---
 
